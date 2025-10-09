@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Luiz Felipe
 
-<!--
-**luizcostaxp/luizcostaxp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante do 6º período de Sistemas de Informação  
+💻 Apaixonado por tecnologia e desenvolvimento de software.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Tecnologias que domino
+
+#### 💬 Linguagens
+C • C++ • Python • JavaScript • TypeScript • Java  
+
+#### ⚙️ Frameworks e Ferramentas
+React • Node.js • Micronaut  
+
+#### 🎨 Front-end
+HTML • CSS  
+
+---
+
+### 📫 Onde me encontrar
+- **GitHub:** [github.com/seu-usuario](https://github.com/luizcostaxp)
+- **LinkedIn:** [linkedin.com/in/seu-linkedin](https://linkedin.com/in/luizcostaxp)
+- **E-mail:** luizcostaxp@gmail.com
