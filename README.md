@@ -19,6 +19,6 @@ HTML • CSS
 ---
 
 ### 📫 Onde me encontrar
-- **GitHub:** [github.com/seu-usuario](https://github.com/luizcostaxp)
-- **LinkedIn:** [linkedin.com/in/seu-linkedin](https://linkedin.com/in/luizcostaxp)
+- **GitHub:** [github.com/luizcostaxp](https://github.com/luizcostaxp)
+- **LinkedIn:** [linkedin.com/in/luizcostaxp](https://linkedin.com/in/luizcostaxp)
 - **E-mail:** luizcostaxp@gmail.com
