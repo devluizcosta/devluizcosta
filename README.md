@@ -1,6 +1,6 @@
-# Olá, meu nome é Luiz Felipe
+# Olá, meu nome é Luiz!
 
-🎓 Estudante do 6º período de Sistemas de Informação  
+🎓 Sou estudante do 6º período de Sistemas de Informação na Universidade Federal de Minas Gerais.
 💻 Apaixonado por tecnologia e desenvolvimento de software.
 
 ---
