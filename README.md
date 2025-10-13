@@ -1,4 +1,4 @@
-# 👋 Olá, meu nome é Luiz Felipe
+# Olá, meu nome é Luiz Felipe
 
 🎓 Estudante do 6º período de Sistemas de Informação  
 💻 Apaixonado por tecnologia e desenvolvimento de software.
