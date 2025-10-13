@@ -1,7 +1,6 @@
 # Olá, meu nome é Luiz!
 
-🎓 Sou estudante do 6º período de Sistemas de Informação na Universidade Federal de Minas Gerais.
-💻 Apaixonado por tecnologia e desenvolvimento de software.
+🎓 Sou estudante do 6º período de Sistemas de Informação na Universidade Federal de Minas Gerais e apaixonado por tecnologia e desenvolvimento de software.
 
 ---
 
