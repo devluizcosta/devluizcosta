@@ -37,4 +37,4 @@ SQL • PostgreSQL • MySQL
 
 - GitHub: [github.com/luizcostaxp](https://github.com/luizcostaxp)
 - LinkedIn: [linkedin.com/in/luizcostaxp](https://linkedin.com/in/luizcostaxp)
-- Email: luizcostaxp@gmail.com
+- Email: dev.luizcosta@gmail.com
